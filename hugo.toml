@@ -1,4 +1,4 @@
-baseURL = 'https://YOUR-USERNAME.github.io/swift-book/'
+baseURL = 'https://ratul0.github.io/swift-book/'
 title = 'Swift & iOS Development'
 theme = 'hugo-book'
 
