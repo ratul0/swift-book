@@ -19,4 +19,4 @@ By the end of this book, you'll have the knowledge to build production-quality i
 
 Navigate through the chapters using the sidebar. Each chapter builds upon previous concepts, but feel free to jump to specific topics as needed.
 
-{{< button relref="./docs/chapter-01" >}}Start with Chapter 1{{< /button >}}
+[**→ Start with Chapter 1: Basic Type System**](./docs/chapter-01)
